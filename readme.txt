@@ -1,0 +1,10 @@
+Group Components:
+*   Simone Benitozzi, 889407
+*   Mattia Beolchi, 844911
+*   Vincenzo Vommaro Marincola, 878533
+
+To execute the code all the instructions are already in the Colab notebook
+https://colab.research.google.com/drive/1XyCuW0_v-vLzDtgWfAgBb2ZIPaifQWya?authuser=3#scrollTo=nL9igUV86ifG
+
+The only additional step is to add the "IR_Project" Drive folder to the MyDrive workspace, where all the data and cache are stored
+https://colab.research.google.com/drive/1XyCuW0_v-vLzDtgWfAgBb2ZIPaifQWya?usp=sharing
